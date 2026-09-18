@@ -1,6 +1,6 @@
 {
-	"Name": "Hell's Diner S2 ",
-	"Version": 1789494424,
+	"Name": "Hell's Diner S2 3rd version",
+	"Version": 1789691225,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2039,7 +2039,7 @@
 				0,
 				1,
 				2,
-				4
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -3051,7 +3051,7 @@
 				0,
 				1,
 				2,
-				4
+				5
 			],
 			"KillerOfferings": [
 				5
