@@ -1,6 +1,6 @@
 {
-	"Name": "Hell's Diner S2 3rd version",
-	"Version": 1789691225,
+	"Name": "Hell's Diner S2 4th version",
+	"Version": 1790300829,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1524,7 +1524,7 @@
 			"IndividualAddonBans": [
 				357,
 				358,
-				356
+				351
 			],
 			"ItemWhitelist": [
 				0,
