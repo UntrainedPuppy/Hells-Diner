@@ -1,6 +1,6 @@
 {
-	"Name": "Hell's Diner S2 4th version",
-	"Version": 1790300829,
+	"Name": "Hell's Diner S2 ",
+	"Version": 1790514207,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -257,6 +257,7 @@
 				"246",
 				"273",
 				"34",
+				"38",
 				"50",
 				"76",
 				"80",
@@ -265,7 +266,8 @@
 				"121",
 				"124",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1174,8 +1176,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1188,10 +1189,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						4,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1524,7 +1522,7 @@
 			"IndividualAddonBans": [
 				357,
 				358,
-				351
+				356
 			],
 			"ItemWhitelist": [
 				0,
@@ -1728,8 +1726,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1742,10 +1739,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						4,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2005,19 +1999,13 @@
 				518,
 				515
 			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						2,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2039,7 +2027,7 @@
 				0,
 				1,
 				2,
-				5
+				4
 			],
 			"KillerOfferings": [
 				5
@@ -2512,7 +2500,6 @@
 				688
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -3051,7 +3038,7 @@
 				0,
 				1,
 				2,
-				5
+				4
 			],
 			"KillerOfferings": [
 				5
