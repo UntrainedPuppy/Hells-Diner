@@ -1,6 +1,6 @@
 {
-	"Name": "Hell's Diner S2 ",
-	"Version": 1790514207,
+	"Name": "Hell's Diner S2 3",
+	"Version": 1790720930,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1521,8 +1521,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				357,
-				358,
-				356
+				358
 			],
 			"ItemWhitelist": [
 				0,
@@ -1999,13 +1998,21 @@
 				518,
 				515
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2500,6 +2507,7 @@
 				688
 			],
 			"ItemWhitelist": [
+				0,
 				5
 			],
 			"AddonWhitelist": {
